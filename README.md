@@ -12,25 +12,25 @@
 
 ## Directory Structure
 
-- **analytics**: Tools and libraries for tracking, analyzing, and visualizing application usage and metrics.
-- **apis**: Examples for implementing various API types, including REST, GraphQL, gRPC, and more.
-- **caching**: Different caching mechanisms like Redis, LRU, LFU, and file-based caching to improve application performance.
-- **clean_architecture**: Design principles and patterns for structuring Python applications in a maintainable and scalable way.
-- **database**: Implementations for connecting and interacting with multiple database types, including MySQL, PostgreSQL, MongoDB, Redis, and more.
-- **deployments**: Deployment scripts and tools for setting up and scaling applications across environments.
-- **docker**: Docker configurations to containerize services, making deployments easier and more consistent.
-- **emails**: Code examples for integrating with popular email services like AWS SES, Mailgun, and SendGrid.
-- **env_secrets**: Techniques for securely managing environment variables and sensitive data in Python applications.
-- **IaC (Infrastructure as Code)**: Scripts for automating infrastructure provisioning and management using tools like Terraform and CloudFormation.
-- **logging**: Logging solutions for tracking application events, errors, and performance metrics.
-- **machine_learning**: Modules for integrating machine learning models and handling tasks related to data processing and predictions.
-- **monitoring**: Tools for tracking system and application performance, including Prometheus, Grafana, and Datadog integrations.
-- **payments**: Implementations for handling payments with various providers such as Stripe, PayPal, and local options like M-Pesa.
-- **queueing**: Message queue implementations with RabbitMQ, Redis Queue, and Celery for handling background tasks.
-- **scaling**: Techniques and tools to scale Python applications effectively, including load balancing and horizontal scaling.
-- **security**: Security features such as encryption, authentication, rate limiting, and best practices for securing APIs.
-- **sms**: Code for sending SMS using providers like Twilio, Nexmo, AWS SNS, and others.
-- **storage**: Integrations with cloud storage providers like AWS S3, Google Cloud Storage, and Azure Blob.
+- **[analytics](analytics)**: Tools and libraries for tracking, analyzing, and visualizing application usage and metrics.
+- **[apis](apis)**: Examples for implementing various API types, including REST, GraphQL, gRPC, and more.
+- **[caching](caching)**: Different caching mechanisms like Redis, LRU, LFU, and file-based caching to improve application performance.
+- **[clean_architecture](clean_architecture)**: Design principles and patterns for structuring Python applications in a maintainable and scalable way.
+- **[database](database)**: Implementations for connecting and interacting with multiple database types, including MySQL, PostgreSQL, MongoDB, Redis, and more.
+- **[deployments](deployments)**: Deployment scripts and tools for setting up and scaling applications across environments.
+- **[docker](docker)**: Docker configurations to containerize services, making deployments easier and more consistent.
+- **[emails](emails)**: Code examples for integrating with popular email services like AWS SES, Mailgun, and SendGrid.
+- **[env_secrets](env_secrets)**: Techniques for securely managing environment variables and sensitive data in Python applications.
+- **[IaC (Infrastructure as Code](IaaC))**: Scripts for automating infrastructure provisioning and management using tools like Terraform and CloudFormation.
+- **[logging](logging)**: Logging solutions for tracking application events, errors, and performance metrics.
+- **[machine_learning](machine_learning)**: Modules for integrating machine learning models and handling tasks related to data processing and predictions.
+- **[monitoring](monitoring)**: Tools for tracking system and application performance, including Prometheus, Grafana, and Datadog integrations.
+- **[payments](payments)**: Implementations for handling payments with various providers such as Stripe, PayPal, and local options like M-Pesa.
+- **[queueing](queueing)**: Message queue implementations with RabbitMQ, Redis Queue, and Celery for handling background tasks.
+- **[scaling](scaling)**: Techniques and tools to scale Python applications effectively, including load balancing and horizontal scaling.
+- **[security](security)**: Security features such as encryption, authentication, rate limiting, and best practices for securing APIs.
+- **[sms](sms)**: Code for sending SMS using providers like Twilio, Nexmo, AWS SNS, and others.
+- **[storage](storage)**: Integrations with cloud storage providers like AWS S3, Google Cloud Storage, and Azure Blob.
 
 ## Getting Started
 
