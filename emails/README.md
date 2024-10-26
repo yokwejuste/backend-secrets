@@ -1,3 +1,5 @@
+[Back to Main README](../README.md)
+
 # Emails
 
 This folder contains Python scripts for integrating various email service providers and sending emails using different clients. Each script demonstrates how to set up and send emails, with optional attachment support, using popular email APIs and protocols.

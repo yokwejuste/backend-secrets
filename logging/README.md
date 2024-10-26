@@ -1,3 +1,5 @@
+[Back to Main README](../README.md)
+
 # Logging
 
 This folder contains Python implementations for various logging solutions, including integrations with popular cloud logging services and structured logging setups. Each script provides methods for logging application events, errors, and structured data.
